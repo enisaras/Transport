@@ -7,13 +7,14 @@
   ## Architecture Diagram
 
   ## Technologies utilized
-  Transport is deployed in an Amazon EKS cluster. Each worker node in the cluster represents a step in the data process. Even though
+  Transport is deployed in an Amazon EKS cluster. Each namespace in the cluster represents a step in the data process. Even though
   it is code agnostic, vast majority of the code is written in python, my preffered language for data engineering and science.
-  Below is a quick list of each step and what is deployed in the worker node.
+  Below is a quick list of each step and what is deployed in each namespace.
   
   ### Step 1: Gathering Data
 
   ### Step 2: Data preperation and wrangling
+
 
   ### Step 3: Analyze and Develop Model
 
