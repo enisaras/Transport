@@ -22,4 +22,13 @@
 
   ### Step 5: Deploy Model
 
+
+  ## Data
+  [NYC Subway Lines](https://data.cityofnewyork.us/Transportation/Subway-Lines/3qz8-muuu)
+  [2021 Yellow Taxi Trip Data](https://data.cityofnewyork.us/Transportation/2021-Yellow-Taxi-Trip-Data/m6nq-qud6)
+  [Real Time Traffic Speed Data](https://data.cityofnewyork.us/Transportation/Real-Time-Traffic-Speed-Data/qkm5-nuaq)
+  [NYC Bike Routes](https://data.cityofnewyork.us/Transportation/New-York-City-Bike-Routes/7vsa-caz7)
+  [NYC Bicycle Counters](https://data.cityofnewyork.us/Transportation/Bicycle-Counters/smn3-rzf9)
+  
+  
   ## Screenshots
