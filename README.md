@@ -5,7 +5,6 @@
   maintance, but also environmental factors like air quality and carbon footprint. Goal of the project is to make 
 
   ## Architecture Diagram
-
   ![Architecture Diagram](https://github.com/enisaras/Transport/blob/main/diagrams/DataEngineeringProject.png)
   ## Technologies utilized
   Transport is deployed in an Amazon EKS cluster. Each namespace in the cluster represents a step in the data process. Even though
@@ -51,6 +50,8 @@
   [NYC Bike Routes](https://data.cityofnewyork.us/Transportation/New-York-City-Bike-Routes/7vsa-caz7)
 
   [NYC Bicycle Counters](https://data.cityofnewyork.us/Transportation/Bicycle-Counters/smn3-rzf9)
+  
+  [NYC Subway Ridership](https://data.ny.gov/Transportation/MTA-Subway-Hourly-Ridership-Beginning-February-202/wujg-7c2s)
   
   
   ## Screenshots
